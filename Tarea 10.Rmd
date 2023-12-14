@@ -2,7 +2,7 @@
 Titulo: "Muestreo de poblaciones y estimación"
 Subtitulo: "AFDMD-111 Estadística"
 Autor: "Karol Guadalupe Alcocer Cob"
-Dá: "`r Sys.Date()`"
+Dia: "`r Sys.Date()`"
 output:
   rmdformats::readthedown:
     highlight: kate
